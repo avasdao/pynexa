@@ -1,3 +1,3 @@
-# Nexa Python Library
+# Nexa Python Web Portal
 
 ### https://nexapy.org
